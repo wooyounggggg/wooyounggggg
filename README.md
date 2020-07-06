@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Computer Engineering in Konkuk University
 - 📫 How to reach me
-  - IG : [Instagram :)](https://www.instagram.com/wooyounggggggggggggg/){target="_blank"}
-  - Blog : https://souljit2.tistory.com/
+  - IG : <a href="https://www.instagram.com/wooyounggggggggggggg/" target="_blank">Instagram</a>
+  - Blog : <a href="https://souljit2.tistory.com/" target="_blank">Blog</a>
 <!--
 **wooyounggggg/wooyounggggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

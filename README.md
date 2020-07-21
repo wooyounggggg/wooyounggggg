@@ -4,9 +4,7 @@
   - <a href="https://www.instagram.com/wooyounggggggggggggg/" target="_blank">Instagram</a>
   - <a href="https://souljit2.tistory.com/" target="_blank">Blog</a>
   - Kakao : souljit1
-- My Activities
-  - 
-  -
+- ✨ My Activities
 <!--
 **wooyounggggg/wooyounggggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

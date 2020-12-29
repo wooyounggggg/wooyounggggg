@@ -5,6 +5,7 @@
   - <a href="https://souljit2.tistory.com/" target="_blank">Blog</a>
   - Kakao : souljit1
 - ✨ My Activities
+  - <a href="https://play.google.com/store/apps/details?id=com.wizmon.touroom" target="_blank">Touroom(React Native)</a>
 <!--
 **wooyounggggg/wooyounggggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

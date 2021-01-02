@@ -5,7 +5,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Computer Engineering in Konkuk University
 - 📫 How to reach me
-  - [![Tech Blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
+  - [![Tech Blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&link=https://https://souljit2.tistory.com//)](https://souljit2.tistory.com/)
 	
   - <a href="https://www.instagram.com/wooyounggggggggggggg/" target="_blank">Instagram</a>
   - <a href="https://souljit2.tistory.com/" target="_blank">Blog</a>

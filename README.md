@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Computer Engineering in Konkuk University
 - 📫 How to reach me
   - [![Tech Blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&link=https://https://souljit2.tistory.com//)](https://souljit2.tistory.com/)
-  - [![Instagram](http://img.shields.io/badge/-Instagram?color=CE1266&style=flat-square&logo=instagram&link=https://https://https://www.instagram.com/wooyounggggggggggggg/)](https://www.instagram.com/wooyounggggggggggggg/)
+  - [![Instagram](http://img.shields.io/badge/-Instagram?color=E4405F&style=flat-square&logo=instagram&link=https://https://https://www.instagram.com/wooyounggggggggggggg/)](https://www.instagram.com/wooyounggggggggggggg/)
   - [![Tech Blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&link=https://https://souljit2.tistory.com//)](https://souljit2.tistory.com/)
   - <a href="https://www.instagram.com/wooyounggggggggggggg/" target="_blank">Instagram</a>
   - <a href="https://souljit2.tistory.com/" target="_blank">Blog</a>

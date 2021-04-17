@@ -3,7 +3,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wooyounggggg&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋
-- 🌱 I’m currently learning Computer Engineering in Konkuk University
+- 🌱 I’m currently learning Computer Science in Konkuk University
 - 📫 How to reach me
   - <a href="https://souljit2.tistory.com/" target="_blank">Blog</a>
   - Kakao : souljit1

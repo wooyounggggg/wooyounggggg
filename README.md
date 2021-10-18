@@ -44,9 +44,9 @@
 
 <div align="center">
 	<h3>📲 Contact</h3>
-	📧 email: souljit2@gmail.com<br/>
-	🌐 Blog: <a href="https://souljit2.tistory.com/">글쓰는 개발자</a>
-	
+	<a href="mailto:souljit2@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+	<a href="https://souljit2.tistory.com/"><img src="https://img.shields.io/badge/log-2ECCAA?style=flat-square&logo=Babel&logoColor=white"/></a>
+	<a href="https://www.instagram.com/wy_dev_life/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </div>
 
 <br/>

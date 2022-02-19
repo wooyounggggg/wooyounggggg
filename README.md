@@ -44,6 +44,17 @@
 <br/>
 
 <div align="center">
+	<h3>📚 Study History</h3>
+	<a href="https://github.com/wooyounggggg/clean-code"><img src="https://img.shields.io/badge/Clean Code-In Progress-0CAA41?style=flat-square"/></a>
+	<br><br>
+	<a href="https://github.com/caffeine-library/system-design-interview"><img src="https://img.shields.io/badge/System Design-4298B8?style=flat-square"/></a>
+	<a href="https://github.com/wooyounggggg/oop-and-design-pattern"><img src="https://img.shields.io/badge/OOP and Design Pattern-54487A?style=flat-square"/></a>
+	<a href="https://github.com/caffeine-library/pro-spring-5"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
+</div>
+
+<br/>
+
+<div align="center">
 	<h3>📲 Contact</h3>
 	<a href="mailto:souljit2@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 	<a href="https://souljit2.tistory.com/"><img src="https://img.shields.io/badge/log-2ECCAA?style=flat-square&logo=Babel&logoColor=white"/></a>

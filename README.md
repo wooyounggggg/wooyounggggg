@@ -47,7 +47,7 @@
 	<h3>📚 Study History</h3>
 	<a href="https://github.com/wooyounggggg/Domain-Driven-Design"><img src="https://img.shields.io/badge/Domain Driven Design-In Progress-0CAA41?style=flat-square"/></a>
 	<br>
-	<a href="https://github.com/wooyounggggg/clean-code"><img src="https://img.shields.io/badge/Clean Code-In Progress-0CAA41?style=flat-square"/></a>
+	<a href="https://github.com/wooyounggggg/clean-code"><img src="https://img.shields.io/badge/Clean Code-Holding-0CAA41?style=flat-square"/></a>
 	<br><br>
 	<a href="https://github.com/caffeine-library/system-design-interview"><img src="https://img.shields.io/badge/System Design-4298B8?style=flat-square"/></a>
 	<a href="https://github.com/wooyounggggg/oop-and-design-pattern"><img src="https://img.shields.io/badge/OOP and Design Pattern-54487A?style=flat-square"/></a>

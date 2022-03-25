@@ -46,7 +46,6 @@
 <div align="center">
 	<h3>📚 Study History</h3>
 	<!--<a href="https://github.com/wooyounggggg/Domain-Driven-Design"><img src="https://img.shields.io/badge/Domain Driven Design-In Progress-0CAA41?style=flat-square"/></a>-->
-	<br>
 	<a href="https://github.com/caffeine-library/objects"><img src="https://img.shields.io/badge/Objects-In Progress-0CAA41?style=flat-square"/></a>
 	<br><br>
 	<a href="https://github.com/wooyounggggg/clean-code"><img src="https://img.shields.io/badge/Clean Code-Holding-0CAA41?style=flat-square"/></a>

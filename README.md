@@ -1,5 +1,5 @@
 #### Introduction
-Hello! 👋 My name is wooyoung, working as backend developer of RDS for MSSQL at [NHN Cloud](https://www.toast.com/kr) since 2022.  
+Hello! 👋 My name is wooyoung, working as backend developer of RDS at [NHN Cloud](https://www.toast.com/kr) since 2022.  
 Every day I study and think about how to make code and architecture more understandable.
 #### Interest in
 - OOP
